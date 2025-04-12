@@ -1,0 +1,3 @@
+Number of connected components before fixing: 4
+Number of connected components after fixing: 1
+Test passed.
